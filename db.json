@@ -1,0 +1,42 @@
+
+  
+{
+  "posts":[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Feedback Finders",
+    "body": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Business Queens",
+    "body": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "Business Solid",
+    "body": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "Avenva logo domainify",
+    "body": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore"
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "Serviveverse",
+    "body": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore"
+  },
+  {
+    "userId": 1,
+    "id": 6,
+    "title": "Servive Trust",
+    "body": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore"
+  }
+]
+}
